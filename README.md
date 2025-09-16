@@ -4,9 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-sa1n1&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-sa1n1" /> </p>
-
-- 🌱 I’m currently learning **Spring boot,Microservices**
-
 - 📫 How to reach me **ys395908@gmail.com**
 
 - ⚡ Fun fact **I am love gaming😍**
