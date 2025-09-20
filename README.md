@@ -1,4 +1,4 @@
-![logo](https://github.com/Yogesh-sa1n1/Yogesh-sa1n1/blob/main/Gemini_Generated_Image_xkynayxkynayxkyn (2).png)
+![logo](https://github.com/Yogesh-sa1n1/Yogesh-sa1n1/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
